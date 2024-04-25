@@ -12,8 +12,8 @@ https://github.com/chaudharycoding/SnapInc-Reebok-Lens/assets/146897570/23e4f074
 
 
 
-**
-**Snapchat AR Lens Project
+
+**Snapchat AR Lens Project**
 
 
 Overview
