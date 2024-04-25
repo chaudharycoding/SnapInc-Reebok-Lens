@@ -1,0 +1,734 @@
+{
+    "InspectorUiComponent": {
+        "collapsedList": [
+            [
+                "1671615949416399:98191",
+                "1671620980898085:383151",
+                "1672132787224898:86936",
+                "1672132787226345:86948",
+                "1672133507725067:186596",
+                "1672133507733323:186628",
+                "1672334164209990:108274",
+                "1672334544756513:228910",
+                "1672334642269848:253782",
+                "1672334695077364:280158",
+                "1672738851530712:32256",
+                "1672738864158251:46361",
+                "1672738921710240:69934",
+                "1672738921711208:69952",
+                "1672819264908631:65607",
+                "1672845607981108:61892",
+                "1672845925426377:129861",
+                "1672845941828407:150169",
+                "1672846070951437:196174",
+                "1672846146879874:228080",
+                "1682670121074528:96362",
+                "1712315321052458:1372989",
+                "1712315321069856:1373115",
+                "1712315419269908:1458056",
+                "1712315444234016:1509418"
+            ]
+        ]
+    },
+    "MapUiComponent": {},
+    "Material::UiComponent": {
+        "active_graph_asset": "1671802286225914:19883"
+    },
+    "MetaInfoUIComponent": {},
+    "ObjectTracking3DUIComponent": {
+        "foldedOwnerSceneObjects": []
+    },
+    "PreviewUiComponent": {},
+    "ResourceUiComponent": {
+        "collapsedList": [
+            [
+                [
+                    "Aniamtions"
+                ],
+                [
+                    "Aniamtions",
+                    "animation"
+                ],
+                [
+                    "Aniamtions",
+                    "tap"
+                ],
+                [
+                    "Face Mesh"
+                ],
+                [
+                    "Face Mesh Default"
+                ],
+                [
+                    "Materials",
+                    "Ball"
+                ],
+                [
+                    "Materials",
+                    "Black frame door"
+                ],
+                [
+                    "Materials",
+                    "Gate"
+                ],
+                [
+                    "Materials",
+                    "Graph Matte Shadow"
+                ],
+                [
+                    "Materials",
+                    "Grid"
+                ],
+                [
+                    "Materials",
+                    "Materials _DarkLight"
+                ],
+                [
+                    "Materials",
+                    "Materials _DarkLight",
+                    "Banner"
+                ],
+                [
+                    "Materials",
+                    "Materials _DarkLight",
+                    "CentralExit_Treadmill_Columns_Fence"
+                ],
+                [
+                    "Materials",
+                    "Materials _DarkLight",
+                    "Field"
+                ],
+                [
+                    "Materials",
+                    "Materials _DarkLight",
+                    "Field_Line"
+                ],
+                [
+                    "Materials",
+                    "Materials _DarkLight",
+                    "Frame"
+                ],
+                [
+                    "Materials",
+                    "Materials _DarkLight",
+                    "Roof"
+                ],
+                [
+                    "Materials",
+                    "Materials _DarkLight",
+                    "Screen"
+                ],
+                [
+                    "Materials",
+                    "Materials _DarkLight",
+                    "Tribune"
+                ],
+                [
+                    "Materials",
+                    "Matte Shadow"
+                ],
+                [
+                    "Materials",
+                    "Occluder"
+                ],
+                [
+                    "Materials",
+                    "Shadow Overlay"
+                ],
+                [
+                    "Materials",
+                    "Star"
+                ],
+                [
+                    "Materials",
+                    "Stickers"
+                ],
+                [
+                    "Materials",
+                    "Zoom Blur"
+                ],
+                [
+                    "Models"
+                ],
+                [
+                    "Models",
+                    "Face Mesh"
+                ],
+                [
+                    "Models",
+                    "Football_Gate"
+                ],
+                [
+                    "Models",
+                    "Football_Gate",
+                    "Football_Gate"
+                ],
+                [
+                    "Models",
+                    "Football_Gate",
+                    "Meshes",
+                    "Football_Gate"
+                ],
+                [
+                    "Models",
+                    "Football_Gate",
+                    "Meshes",
+                    "Grid"
+                ],
+                [
+                    "Models",
+                    "Occluder"
+                ],
+                [
+                    "Models",
+                    "Occluder",
+                    "Meshes"
+                ],
+                [
+                    "Models",
+                    "Occluder",
+                    "Meshes",
+                    "occluder"
+                ],
+                [
+                    "Models",
+                    "Occluder",
+                    "Occluder"
+                ],
+                [
+                    "Models",
+                    "Plane 2"
+                ],
+                [
+                    "Models",
+                    "Star"
+                ],
+                [
+                    "Models",
+                    "Star",
+                    "Meshes",
+                    "Star"
+                ],
+                [
+                    "Models",
+                    "Star",
+                    "Star"
+                ],
+                [
+                    "Physics"
+                ],
+                [
+                    "RenderTargets"
+                ],
+                [
+                    "RenderTargets",
+                    "Render Target Capture"
+                ],
+                [
+                    "RenderTargets",
+                    "Render Target shadow"
+                ],
+                [
+                    "Scripts"
+                ],
+                [
+                    "Scripts",
+                    "BackController"
+                ],
+                [
+                    "Scripts",
+                    "BallBounceTween"
+                ],
+                [
+                    "Scripts",
+                    "BindTransform 2"
+                ],
+                [
+                    "Scripts",
+                    "ChainController"
+                ],
+                [
+                    "Scripts",
+                    "DevTools"
+                ],
+                [
+                    "Scripts",
+                    "FrontBackExperienceController"
+                ],
+                [
+                    "Scripts",
+                    "FrontController"
+                ],
+                [
+                    "Scripts",
+                    "GoalKeeperController"
+                ],
+                [
+                    "Scripts",
+                    "HitTextController"
+                ],
+                [
+                    "Scripts",
+                    "JSMathLibrary"
+                ],
+                [
+                    "Scripts",
+                    "OnClickPortal"
+                ],
+                [
+                    "Scripts",
+                    "PositionBasedDynamicsHelpers"
+                ],
+                [
+                    "Scripts",
+                    "Self rotation"
+                ],
+                [
+                    "Scripts",
+                    "SwipeListener"
+                ],
+                [
+                    "Scripts",
+                    "Tween"
+                ],
+                [
+                    "Scripts",
+                    "Tween",
+                    "Tween"
+                ],
+                [
+                    "Scripts",
+                    "Tween",
+                    "TweenManager"
+                ],
+                [
+                    "Scripts",
+                    "Tween",
+                    "TweenTypes",
+                    "Legacy"
+                ],
+                [
+                    "Scripts",
+                    "Tween",
+                    "TweenTypes",
+                    "Legacy",
+                    "TweenBillboard [DEPRECATED]"
+                ],
+                [
+                    "Scripts",
+                    "Tween",
+                    "TweenTypes",
+                    "TweenAlpha"
+                ],
+                [
+                    "Scripts",
+                    "Tween",
+                    "TweenTypes",
+                    "TweenChain"
+                ],
+                [
+                    "Scripts",
+                    "Tween",
+                    "TweenTypes",
+                    "TweenColor"
+                ],
+                [
+                    "Scripts",
+                    "Tween",
+                    "TweenTypes",
+                    "TweenScreenTransform"
+                ],
+                [
+                    "Scripts",
+                    "Tween",
+                    "TweenTypes",
+                    "TweenTransform"
+                ],
+                [
+                    "Scripts",
+                    "Tween",
+                    "TweenTypes",
+                    "TweenValue"
+                ],
+                [
+                    "Smoke VFX Resources"
+                ],
+                [
+                    "Sounds"
+                ],
+                [
+                    "Sounds",
+                    "Crowd"
+                ],
+                [
+                    "Sounds",
+                    "SFX_Soccer Ball Hit"
+                ],
+                [
+                    "Sounds",
+                    "SFX_Stadium"
+                ],
+                [
+                    "Sounds",
+                    "Soccer_Net_Hit"
+                ],
+                [
+                    "Sounds",
+                    "Whoosh_1"
+                ],
+                [
+                    "Sounds",
+                    "wow_1"
+                ],
+                [
+                    "Sounds",
+                    "wow_2"
+                ],
+                [
+                    "Sounds",
+                    "wow_3"
+                ],
+                [
+                    "Sounds",
+                    "wow_4"
+                ],
+                [
+                    "Textures",
+                    "BackDressingRoom"
+                ],
+                [
+                    "Textures",
+                    "Base"
+                ],
+                [
+                    "Textures",
+                    "Body Segmentation"
+                ],
+                [
+                    "Textures",
+                    "CC"
+                ],
+                [
+                    "Textures",
+                    "CC_World"
+                ],
+                [
+                    "Textures",
+                    "Echopark"
+                ],
+                [
+                    "Textures",
+                    "Echopark",
+                    "Diff"
+                ],
+                [
+                    "Textures",
+                    "Echopark",
+                    "Specular"
+                ],
+                [
+                    "Textures",
+                    "Face Mesh Texture"
+                ],
+                [
+                    "Textures",
+                    "Face Strikers",
+                    "Face Stickers_01"
+                ],
+                [
+                    "Textures",
+                    "Face Strikers",
+                    "Face Stickers_02"
+                ],
+                [
+                    "Textures",
+                    "Face Strikers",
+                    "Face Stickers_03"
+                ],
+                [
+                    "Textures",
+                    "Gate,Ball"
+                ],
+                [
+                    "Textures",
+                    "Gate,Ball",
+                    "Grid_base"
+                ],
+                [
+                    "Textures",
+                    "Gate,Ball",
+                    "Grid_normal"
+                ],
+                [
+                    "Textures",
+                    "Hints"
+                ],
+                [
+                    "Textures",
+                    "Hints",
+                    "Brilliant!"
+                ],
+                [
+                    "Textures",
+                    "Hints",
+                    "Excellent!"
+                ],
+                [
+                    "Textures",
+                    "Hints",
+                    "Flip Camera To Play"
+                ],
+                [
+                    "Textures",
+                    "Hints",
+                    "Good Job!"
+                ],
+                [
+                    "Textures",
+                    "Hints",
+                    "Look Around"
+                ],
+                [
+                    "Textures",
+                    "Hints",
+                    "Perfect!"
+                ],
+                [
+                    "Textures",
+                    "Hints",
+                    "So Close"
+                ],
+                [
+                    "Textures",
+                    "Hints",
+                    "Tap"
+                ],
+                [
+                    "Textures",
+                    "Hints",
+                    "Try Again"
+                ],
+                [
+                    "Textures",
+                    "Light"
+                ],
+                [
+                    "Textures",
+                    "Pasadena"
+                ],
+                [
+                    "Textures",
+                    "Pasadena",
+                    "Diff"
+                ],
+                [
+                    "Textures",
+                    "Pasadena",
+                    "Specular"
+                ],
+                [
+                    "Textures",
+                    "Portrait Background Segmentation"
+                ],
+                [
+                    "Textures",
+                    "Score2"
+                ],
+                [
+                    "Textures",
+                    "Screen Texture 2"
+                ],
+                [
+                    "Textures",
+                    "Star"
+                ],
+                [
+                    "Textures",
+                    "Textures_DarkLight"
+                ],
+                [
+                    "Textures",
+                    "Textures_DarkLight",
+                    "Banner_materialParams"
+                ],
+                [
+                    "Textures",
+                    "Textures_DarkLight",
+                    "Banner_normal"
+                ],
+                [
+                    "Textures",
+                    "Textures_DarkLight",
+                    "CentralExit_Treadmill_Columns_Fence_base"
+                ],
+                [
+                    "Textures",
+                    "Textures_DarkLight",
+                    "CentralExit_Treadmill_Columns_Fence_materialParams"
+                ],
+                [
+                    "Textures",
+                    "Textures_DarkLight",
+                    "CentralExit_Treadmill_Columns_Fence_normal"
+                ],
+                [
+                    "Textures",
+                    "Textures_DarkLight",
+                    "Field_Line_base"
+                ],
+                [
+                    "Textures",
+                    "Textures_DarkLight",
+                    "Field_base"
+                ],
+                [
+                    "Textures",
+                    "Textures_DarkLight",
+                    "Frame_normal"
+                ],
+                [
+                    "Textures",
+                    "Textures_DarkLight",
+                    "Roof_base"
+                ],
+                [
+                    "Textures",
+                    "Textures_DarkLight",
+                    "Roof_normal"
+                ],
+                [
+                    "Textures",
+                    "Textures_DarkLight",
+                    "Tribune_normal"
+                ],
+                [
+                    "Textures",
+                    "confetti"
+                ],
+                [
+                    "VFX"
+                ]
+            ]
+        ]
+    },
+    "SceneTreeUiComponent": {
+        "collapsedList": [
+            [
+                "101:100",
+                "1517446348227994:84813",
+                "1654260274951407:26380",
+                "1654260430749374:54839",
+                "1654260470705814:59991",
+                "1654260483920282:61889",
+                "1671615113688001:8770",
+                "1671615275477920:30027",
+                "1671615422306013:46774",
+                "1671615625236754:68856",
+                "1671615949416399:98191",
+                "1671626681365268:16436",
+                "1672132787224898:86936",
+                "1672133507725067:186596",
+                "1672227015102898:14507",
+                "1672228941183789:422924",
+                "1672229773485573:536041",
+                "1672229773516076:536228",
+                "1672229885076583:553005",
+                "1672230096280807:581066",
+                "1672334179404160:112340",
+                "1672733746017405:37336",
+                "1672757448702301:495506",
+                "1672757637450962:520316",
+                "1672822752461090:496456",
+                "1672822977855075:529165",
+                "1673435364336455:69597",
+                "1673435515264329:105011",
+                "1673613480882815:617653",
+                "1673614191301433:692861",
+                "1674204106719841:157029",
+                "1674488460198152:1105738",
+                "1677680024781266:3851487",
+                "1682669884205886:44027",
+                "1682669987157700:58141",
+                "1682670121070027:96356",
+                "1682670236172813:121858",
+                "1712273639070839:2344445",
+                "1712273639201856:2345085",
+                "1712273639206341:2345114",
+                "1712273639210694:2345132",
+                "1712273639215232:2345150",
+                "1712273639219698:2345181",
+                "1712273639224040:2345212",
+                "1712273639228506:2345230",
+                "1712315321034941:1372841",
+                "1712316621215581:2107533",
+                "1712327571231740:1873865",
+                "1712408011011072:84920",
+                "1712408322280807:390039",
+                "1712417078575761:410645",
+                "1712418018955889:1269318",
+                "1712418018964485:1269348",
+                "1712418019070702:1269675",
+                "1712418019075168:1269690"
+            ]
+        ],
+        "selectionSetList": {}
+    },
+    "Script::UiComponent": {
+        "active_graph_asset": "-1:-1"
+    },
+    "VFX::UiComponent": {
+        "active_graph_asset": "-1:-1"
+    },
+    "IFileManager": {},
+    "IResourceManager": {},
+    "InspectorComponent": {},
+    "LayerComponent": {},
+    "RemoteApi::ModelManager": {},
+    "RenderOrderComponent": {},
+    "WorldComponent": {},
+    "AssetImportController": {},
+    "Compression::IController": {},
+    "DigitalGoodsController": {},
+    "IResourceController": {
+        "sourcePaths": {
+            "1712313875955135:121722": "/Users/pavelivasiuk/Desktop/SFX_Soccer Ball Hit.mp3",
+            "1712313876000853:121732": "/Users/pavelivasiuk/Desktop/SFX_Stadium.mp3",
+            "1712314096879952:351948": "/Users/pavelivasiuk/Downloads/UI Football (tiny)/Brilliant!.png",
+            "1712314097182902:352284": "/Users/pavelivasiuk/Downloads/UI Football (tiny)/Excellent!.png",
+            "1712314097325007:352349": "/Users/pavelivasiuk/Downloads/UI Football (tiny)/Flip Camera To Play.png",
+            "1712314097361348:352415": "/Users/pavelivasiuk/Downloads/UI Football (tiny)/Good Job!.png",
+            "1712314097426146:352698": "/Users/pavelivasiuk/Downloads/UI Football (tiny)/Look Around.png",
+            "1712314097480639:355225": "/Users/pavelivasiuk/Downloads/UI Football (tiny)/Perfect!.png",
+            "1712314097494075:355237": "/Users/pavelivasiuk/Downloads/UI Football (tiny)/So Close.png",
+            "1712314097577256:355300": "/Users/pavelivasiuk/Downloads/UI Football (tiny)/Tap.png",
+            "1712314097721961:355606": "/Users/pavelivasiuk/Downloads/UI Football (tiny)/Try Again.png",
+            "1712314112594722:368645": "/Users/pavelivasiuk/Downloads/UI Football (tiny)/Background_00001.png",
+            "1712315022572264:1115648": "/Users/pavelivasiuk/Library/Caches/Snap/Lens Studio/temp/StudioWjgarvgODlWa//system//emergencyFiles/emergencyJs.js",
+            "1712316612072302:2100510": "/Users/pavelivasiuk/Desktop/wow_1.mp3",
+            "1712316612161574:2100780": "/Users/pavelivasiuk/Desktop/wow_2.mp3",
+            "1712316612212819:2100791": "/Users/pavelivasiuk/Desktop/wow_3.mp3",
+            "1712316612243762:2100801": "/Users/pavelivasiuk/Desktop/wow_4.mp3",
+            "1712319668089716:4321776": "/Users/pavelivasiuk/Library/Caches/Snap/Lens Studio/temp/StudioWjgarvgODlWa//system//emergencyFiles/emergencyJs.js",
+            "1712417428679153:713751": "/Users/pavelivasiuk/Downloads/Telegram Lite/Face Stickers_01.png",
+            "1712417428963079:714091": "/Users/pavelivasiuk/Downloads/Telegram Lite/Face Stickers_02.png",
+            "1712417429115284:714156": "/Users/pavelivasiuk/Downloads/Telegram Lite/Face Stickers_03.png",
+            "1712417522024989:792546": "/Users/pavelivasiuk/Library/Caches/Snap/Lens Studio/temp/StudioaqTwgEgqVmCJ//system//emergencyFiles/emergencyJpg.jpg",
+            "1712417522047300:792584": "/Users/pavelivasiuk/Library/Caches/Snap/Lens Studio/temp/StudioaqTwgEgqVmCJ//system//emergencyFiles/emergencyJpg.jpg"
+        }
+    },
+    "InspectorController": {
+        "selection": {
+            "resources": [
+                [
+                    "-1:-1",
+                    [
+                        "Physics"
+                    ]
+                ]
+            ]
+        }
+    },
+    "ObjectPrefabController": {},
+    "ObjectTracking3DController": {},
+    "ScriptModulesController": {}
+}
