@@ -60,27 +60,3 @@ Move your device around to explore different angles and elements of the AR exper
 ![WhatsApp Image 2024-04-06 at 16 24 48](https://github.com/chaudharycoding/SnapInc-Reebok-Lens/assets/146897570/454dce1a-a0c4-4a01-a548-9853705bf865) 
 
 
-Flappy Bird AI (NEAT)
-Overview
-This project is a Flappy Bird AI implementation that combines object-oriented programming, Python, PyGame, and the NEAT (NeuroEvolution of Augmenting Topologies) genetic algorithm to create intelligent, evolving birds that can play the game autonomously.
-
-Project Description
-Object-Oriented Programming
-This Flappy Bird AI project starts by applying object-oriented programming (OOP) principles to construct the fundamental mechanics of the game using Python and PyGame. This approach ensures a clean and modular codebase, making it easier to manage and extend the game's functionality.
-
-Physics and Collision Simulation
-While developing the game, special attention was given to simplifying the simulation of physics and collisions. This optimization ensures that the game mechanics run smoothly, providing a realistic and enjoyable gaming experience for both human players and AI agents.
-
-NEAT Genetic Algorithm
-The core of this project relies on the NEAT (NeuroEvolution of Augmenting Topologies) genetic algorithm. NEAT is used to evolve artificial neural networks that control the behavior of the AI birds in the game. Through generations of evolution, these AI birds become increasingly proficient at playing Flappy Bird.
-
-Results
-After testing the AI agents, it was observed that they exhibited remarkable progress in their gameplay abilities. By the 11th generation, the AI birds were capable of playing the game indefinitely, demonstrating the effectiveness of the NEAT algorithm in training intelligent agents for relatively complex tasks (atleast for humans).
-
-
-
-
-
-Acknowledgments
-Snap Inc. and Paragon One for the opportunity to participate in the Augmented Reality Development and Digital Storytelling Externship.
-Alexa Levine, Head of Entertainment at Snap Inc., for mentoring and guidance throughout the project.
