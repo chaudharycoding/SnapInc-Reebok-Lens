@@ -16,7 +16,7 @@ https://github.com/chaudharycoding/SnapInc-Reebok-Lens/assets/146897570/23e4f074
 **Snapchat AR Lens Project**
 
 
-Overview
+**Overview**
 
 This project showcases a Snapchat Augmented Reality (AR) Lens that has achieved global recognition, with over 100,000 views from more than 100 countries. The lens integrates advanced 3D modeling techniques using Blender and Maya, enhanced by dynamic API interactions handled through Visual Studio Code. This AR lens is designed to provide immersive and interactive digital storytelling experiences.
 
